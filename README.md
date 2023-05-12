@@ -12,7 +12,6 @@
 
 <div align="center" >
  
-/* ![waving](https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient) */
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
  
