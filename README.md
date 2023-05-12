@@ -1,4 +1,4 @@
-### Hi there 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Artemii%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20with%20more%20then%203%20years%20of%20experience!&descAlignY=51&descAlign=62)
 <p align='center'> Building DE Community </p>
 
@@ -10,9 +10,8 @@
  </div>
 
 
- 
 
-### :man_technologist: Hi, I'm Falcon. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
+### :pushpin: Hi, I'm Falcon. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
 Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Airflow, SuperSet 
 
 <img align='right' height='160' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
