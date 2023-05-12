@@ -69,7 +69,7 @@ Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Ai
  </div>
  
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=15&animation=fadeIn&fontAlignY=38&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=15&animation=fadeIn&fontAlignY=38&color=FD3412"/>
 
 <!--
 **ArtieFalcon/ArtieFalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
