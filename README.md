@@ -59,7 +59,7 @@ Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Ai
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details close="false">
+
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -70,7 +70,6 @@ Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Ai
  </div>
  
  
- </details>
 
 
 <!--
