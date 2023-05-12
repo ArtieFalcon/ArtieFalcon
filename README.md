@@ -1,5 +1,5 @@
 ### Hi there 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Artemii%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20with%203+%20years%20experience%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Artemii%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20with%203+%20years%20experience%20!&descAlignY=51&descAlign=62)
 <p align='center'> Building DE Community </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
@@ -12,7 +12,7 @@
 
 <div align="center" >
  
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient)
+/* ![waving](https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient) */
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
  
