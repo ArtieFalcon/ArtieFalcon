@@ -59,14 +59,14 @@ Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Ai
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details close="true">
+<details close="false">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
  
