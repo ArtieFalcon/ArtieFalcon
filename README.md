@@ -13,6 +13,8 @@
   <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
 </h1>
 
+<h4 align="center"> A journey of a thousand miles begins with a single step
+</h4>
 
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
 Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Airflow, SuperSet 
