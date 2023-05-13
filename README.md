@@ -11,24 +11,6 @@
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
 
-<img align='right' height='200' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
-
-
-## Contact Me:
-
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
-
-[1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
-[2.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram1.png
-[3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
-[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
-
-
-[1]: https://www.linkedin.com/in/artemiy-s-708111210
-[2]: https://telegram.me/xxxagtx
-[3]: mailto:sokolartemy@gmail.com
-[4]: https://www.reddit.com/user/ArtieFalcon/
-
 <img align='left' height='200' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
 
 <br>
@@ -55,6 +37,22 @@ Currently I'm Data Engineeer in Bank.
   </a>
 </p>
 
+<img align='right' height='200' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
+
+## Contact Me
+
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
+
+[1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
+[2.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram1.png
+[3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
+[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
+
+
+[1]: https://www.linkedin.com/in/artemiy-s-708111210
+[2]: https://telegram.me/xxxagtx
+[3]: mailto:sokolartemy@gmail.com
+[4]: https://www.reddit.com/user/ArtieFalcon/
 
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
