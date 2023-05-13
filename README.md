@@ -2,6 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=59&descAlign=75)
  <!--  <p align='center'> Building DE Community </p> -->
 <div align="center" >
+
+<h4 align="center"> A journey of a thousand miles begins with a single step
+</h4>
  
  <!-- Comments 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
@@ -12,9 +15,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
 </h1>
-
-<h4 align="center"> A journey of a thousand miles begins with a single step
-</h4>
 
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
 Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Airflow, SuperSet 
