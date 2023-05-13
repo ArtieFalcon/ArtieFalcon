@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 700 70" width="700" height="70" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+	<foreignObject width="100%" height="90%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes gradientText {
@@ -39,7 +39,7 @@
 				  text-align: center;
 				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
 				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
-				  background-size: 100%;
+				  background-size: 150%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
 				  -webkit-text-fill-color: transparent;
