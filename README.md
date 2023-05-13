@@ -43,15 +43,13 @@ Currently I'm Data Engineeer in Bank.
 [3]: mailto:sokolartemy@gmail.com
 [4]: https://www.reddit.com/user/ArtieFalcon/
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [SQL Optimization](https://habr.com/ru/sandbox/184840/)
+<!-- BLOG-POST-LIST:END -->
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
@@ -71,11 +69,7 @@ Currently I'm Data Engineeer in Bank.
 
 </div>
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [SQL Optimization](https://habr.com/ru/sandbox/184840/)
-<!-- BLOG-POST-LIST:END -->
 
 <hr>
 <p align="center">
@@ -84,6 +78,15 @@ Currently I'm Data Engineeer in Bank.
    <i>―Vernon Sanders Law</i>
    <br>
 </p>      
+
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
  
 <!--Animated text with snowflakes
 <h1 align="center">
