@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail...&descAlignY=58&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=58&descAlign=70)
 <p align='center'> Building DE Community </p>
 
 <div align="center" >
