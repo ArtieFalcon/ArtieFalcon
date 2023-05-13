@@ -52,6 +52,8 @@ Currently I'm Data Engineeer in Bank.
   </a>
 </p>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
