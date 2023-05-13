@@ -53,7 +53,11 @@ Currently I'm Data Engineeer in Bank.
 </p>
 
 
-
+<div align="center" width="50">
+<p><strong>
+<br> Vibing to : 🎧  </strong></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+</div>
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
@@ -65,11 +69,7 @@ Currently I'm Data Engineeer in Bank.
  </div>
 <br>
 
-<div align="center" width="50">
-<p><strong>
-<br> Vibing to : 🎧  </strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-</div>
+
 
 <hr>
 <p align="center">
