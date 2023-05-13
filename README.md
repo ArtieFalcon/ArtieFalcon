@@ -27,7 +27,7 @@ Currently I'm Data Engineeer in Bank.
 
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
 [2]: https://telegram.me/xxxagtx
-[3]: mailto:sokolartemy@gmail.com
+[3]: https://telegram.me/xxxagtx
 
 <a href="mailto:sokolartemy@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
