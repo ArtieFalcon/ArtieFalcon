@@ -29,15 +29,6 @@ Currently I'm Data Engineeer in Bank.
 [3]: mailto:sokolartemy@gmail.com
 [4]: https://www.reddit.com/user/ArtieFalcon/
 
-<a href="mailto:sokolartemy@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
-</a>
-<a href="https://www.reddit.com/user/ArtieFalcon/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png" />
-</a>
-
-*************
-
 <img align='left' height='160' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
 
 <br>
