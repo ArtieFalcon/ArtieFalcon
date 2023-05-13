@@ -22,9 +22,9 @@ Currently I'm Data Engineeer in Bank.
 [![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
 
 [1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
-[2.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[2.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram.png
 [3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
-[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
+[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
 
 
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
