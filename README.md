@@ -28,7 +28,7 @@ Currently I'm Data Engineeer in Bank.
   </a>
 </p>
 
-<img align='right' height='250' style="margin-right:20px" src='assets/gif_network.gif' alt='Social Networks'>
+<img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
 
 ## Contact Me
 
