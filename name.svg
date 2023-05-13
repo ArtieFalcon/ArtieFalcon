@@ -39,7 +39,7 @@
 				  text-align: center;
 				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
 				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
-				  background-size: 200%;
+				  background-size: 100%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
 				  -webkit-text-fill-color: transparent;
