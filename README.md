@@ -16,7 +16,7 @@ Currently I'm Data Engineeer in Bank.
 <img align='right' height='160' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
 
 <br>
-<h2>Social Networks</h2>
+## Contact Me:
 
 [![LinkedIn][1.2]][1] [![Telegram][2.2]][2]
 
@@ -26,11 +26,17 @@ Currently I'm Data Engineeer in Bank.
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
 [2]: https://telegram.me/xxxagtx
 
+<a href="mailto:sokolartemy@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
+</a>
+<a href="https://www.reddit.com/user/ArtieFalcon/">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png" />
+</a>
+
 <br>
 <br>
 
 
-# Contact Me:
 <p>
  </br>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
