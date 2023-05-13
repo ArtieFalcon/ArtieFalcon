@@ -11,7 +11,7 @@
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
 
-<img align='right' height='198' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
+<img align='right' height='200' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
 
 
 ## Contact Me:
@@ -29,7 +29,7 @@ Currently I'm Data Engineeer in Bank.
 [3]: mailto:sokolartemy@gmail.com
 [4]: https://www.reddit.com/user/ArtieFalcon/
 
-<img align='left' height='160' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
+<img align='left' height='200' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
 
 <br>
 <h2>Skills</h2>
