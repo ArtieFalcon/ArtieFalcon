@@ -9,6 +9,9 @@
  
  </div>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Data Engineering" />
+</h1>
 
 
 ### :pushpin: Hi, I'm Falcon. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
@@ -63,7 +66,7 @@ Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Ai
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast&cache_seconds=50000" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
