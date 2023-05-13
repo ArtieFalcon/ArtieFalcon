@@ -11,10 +11,10 @@
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
 
-<img align='left' height='200' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
+<img align='left' height='200' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
 <br>
-<h2>Skills</h2>
+## Skills
 <h4>Experienced</h4>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,16 +28,7 @@ Currently I'm Data Engineeer in Bank.
   </a>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
-
-<img align='right' height='200' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
+<img align='right' height='200' style="margin-right:20px" src='assets/gif_network.gif' alt='Social Networks'>
 
 ## Contact Me
 
@@ -48,12 +39,19 @@ Currently I'm Data Engineeer in Bank.
 [3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
 [4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
 
-
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
 [2]: https://telegram.me/xxxagtx
 [3]: mailto:sokolartemy@gmail.com
 [4]: https://www.reddit.com/user/ArtieFalcon/
 
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
