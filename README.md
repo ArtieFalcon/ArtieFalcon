@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=92&descAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=90&descAlign=50)
  <!--  <p align='center'> Building DE Community </p> -->
   <!-- <h4 align="center"> 
 </h4>
