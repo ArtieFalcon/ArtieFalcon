@@ -63,15 +63,14 @@ Currently I'm Data Engineeer in Bank.
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast&cache_seconds=50000" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
- 
+<br>
+
 <div align="center" width="50">
 <p><strong>
 <br> Vibing to : 🎧  </strong></p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 </div>
- 
- 
-<br>
+
 <hr>
 <p align="center">
    <i>“Experience is a hard teacher because she gives the test first, the lesson afterwards.”</i>
