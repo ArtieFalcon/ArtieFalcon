@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=79&descAlign=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=82&descAlign=22)
  <!--  <p align='center'> Building DE Community </p> -->
-<h4 align="center"> A journey of a thousand miles begins with a single step
+  <!-- <h4 align="center"> 
 </h4>
+-->
+
  <!-- Comments 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
  -->
