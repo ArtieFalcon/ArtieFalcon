@@ -53,17 +53,7 @@ Currently I'm Data Engineeer in Bank.
 </p>
 
 
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-  
-<p><strong>
-<br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</div>
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
@@ -74,9 +64,14 @@ Currently I'm Data Engineeer in Bank.
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
+<div align="center" width="50">
+<p><strong>
+<br> Vibing to : 🎧  </strong></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+</div>
+ 
  
 <br>
-
 <hr>
 <p align="center">
    <i>“Experience is a hard teacher because she gives the test first, the lesson afterwards.”</i>
