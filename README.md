@@ -11,24 +11,24 @@
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
 
-<img align='left' height='200' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
+<img align='left' height='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
 <br>
-<h2>Skills</h2>
+<h2>Skills: SQL, Python, Hadoop, Impala, Airflow, SuperSet </h2>
 <h4>Experienced</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash" />
   </a>
 </p>
 <h4>Basics</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,figma,gitlab,grafana,linkedin,matlab,ps" />
+    <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,figma,gitlab,grafana,linkedin,matlab,ps,linux" />
   </a>
 </p>
 
-<img align='right' height='200' style="margin-right:20px" src='assets/gif_network.gif' alt='Social Networks'>
+<img align='right' height='250' style="margin-right:20px" src='assets/gif_network.gif' alt='Social Networks'>
 
 ## Contact Me
 
