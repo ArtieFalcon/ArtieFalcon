@@ -8,9 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
  -->
  
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
-</h1>
+
 
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
@@ -73,9 +71,9 @@ Currently I'm Data Engineeer in Bank.
 
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>“Experience is a hard teacher because she gives the test first, the lesson afterwards.”</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>―Vernon Sanders Law</i>
    <br>
 <br>
 <a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
@@ -88,6 +86,9 @@ Currently I'm Data Engineeer in Bank.
 <br>
 </p>      
  
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
+</h1>
  
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=15&animation=fadeIn&fontAlignY=38&TextColor=FD3412"/>
