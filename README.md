@@ -15,7 +15,7 @@ Currently I'm Data Engineeer in Bank.
 
 <br>
 <h2>Skills </h2>
-<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet </h3>
+<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet, SAS MA </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash" />
