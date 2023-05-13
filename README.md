@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=59&descAlign=75&desc=Retail&descAlignY=89&descAlign=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=79&descAlign=45)
  <!--  <p align='center'> Building DE Community </p> -->
 <h4 align="center"> A journey of a thousand miles begins with a single step
 </h4>
