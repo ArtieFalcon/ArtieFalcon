@@ -11,7 +11,7 @@
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer in Bank. 
 
-<img align='right' height='160' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
+<img align='right' height='198' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
 
 
 ## Contact Me:
