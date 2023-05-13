@@ -4,13 +4,14 @@
 
 <div align="center" >
  
- 
+ <!-- Comments 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
+ -->
  
  </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Data Engineering" />
+  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
 </h1>
 
 
