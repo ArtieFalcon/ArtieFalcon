@@ -83,5 +83,5 @@ Currently I'm Data Engineeer in Bank.
 </h1>
  -->
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=15&animation=fadeIn&fontAlignY=38&TextColor=FD3412"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=20&TextColor=FD3412"/>
 
