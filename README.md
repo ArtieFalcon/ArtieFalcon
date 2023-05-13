@@ -71,10 +71,11 @@ Currently I'm Data Engineeer in Bank.
 
 </div>
 
-### :sparkles: My Followers
+### 📕 Latest Blog Posts
 
-![Metrics](https://metrics.lecoq.io/ArtieFalcon?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
-
+<!-- BLOG-POST-LIST:START -->
+- [SQL Optimization](https://habr.com/ru/sandbox/184840/)
+<!-- BLOG-POST-LIST:END -->
 
 <hr>
 <p align="center">
