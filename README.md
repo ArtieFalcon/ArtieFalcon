@@ -23,7 +23,8 @@ Currently I'm Data Engineeer in Bank.
 
 [1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
-[3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
+[3.2]: <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
+
 
 
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
