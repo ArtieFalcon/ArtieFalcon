@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SQL,%20Python,%20Hadoop,%20Impala,%20Airflow,%20SuperSet&descAlignY=51&descAlign=162)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SQL,%20Python,%20Hadoop,%20Impala,%20Airflow,%20SuperSet&descAlignY=51&descAlign=32)
 <p align='center'> Building DE Community </p>
 
 <div align="center" >
