@@ -29,6 +29,41 @@ Currently I'm Data Engineeer in Bank.
 <br>
 <br>
 
+
+# Contact Me :
+<p>
+ </br>
+<img hight="220" width="330" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<a href="mailto:sokolartemy@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/artemiy-s-708111210/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/ArtieFalcon/">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png" />
+</a>
+<a href="https://telegram.me/xxxagtx/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+*************
+
 <img align='left' height='160' style="margin-left:20px" src='assets/gif_network.gif' alt='Skills'>
 
 <br>
@@ -83,5 +118,5 @@ Currently I'm Data Engineeer in Bank.
 </h1>
  -->
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=20&TextColor=FD3412"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=76&TextColor=FD3412"/>
 
