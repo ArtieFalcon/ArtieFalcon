@@ -52,7 +52,7 @@ Currently I'm Data Engineeer in Bank.
   </a>
 </p>
 
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
+[![habr](https://svg.bookmark.style/api?url=https://habr.com/ru/sandbox/184840/&mode=light&style=horizontal)](https://habr.com)
 
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
