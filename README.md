@@ -56,8 +56,8 @@ Currently I'm Data Engineeer in Bank.
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=artiefalcon&theme=highcontrast&cache_seconds=20000" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiefalcon&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast&cache_seconds=40000" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
 <br>
 
