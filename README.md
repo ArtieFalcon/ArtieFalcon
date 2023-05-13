@@ -8,8 +8,9 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
 </h1>
-### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions
-Currently I'm Data Engineeer in Bank. My skills: SQL, Hadoop, Impala, Python, Airflow, SuperSet 
+
+# :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
+Currently I'm Data Engineeer in Bank. 
 
 <img align='right' height='160' style="margin-right:20px" src='assets/Planning-min.gif' alt='Social Networks'>
 
