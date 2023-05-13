@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=59&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Banking,%20Finance,%20Retail&descAlignY=59&descAlign=75&desc=Banking,%20Finance,%20Retail&descAlignY=89&descAlign=35)
  <!--  <p align='center'> Building DE Community </p> -->
 <h4 align="center"> A journey of a thousand miles begins with a single step
 </h4>
@@ -7,7 +7,7 @@
  -->
  
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data_Engineering" />
+  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
 </h1>
 
 ### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
