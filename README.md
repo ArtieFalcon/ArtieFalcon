@@ -19,17 +19,18 @@ Currently I'm Data Engineeer in Bank.
 
 ## Contact Me:
 
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3]
+[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
 
-[1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
-[3.2]: <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
-
+[3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
+[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
 
 
 [1]: https://www.linkedin.com/in/artemiy-s-708111210
 [2]: https://telegram.me/xxxagtx
 [3]: mailto:sokolartemy@gmail.com
+[4]: https://www.reddit.com/user/ArtieFalcon/
 
 <a href="mailto:sokolartemy@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png" />
