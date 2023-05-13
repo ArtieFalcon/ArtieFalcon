@@ -14,15 +14,13 @@ Currently I'm Data Engineeer in Bank.
 <img align='left' height='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
 <br>
-<h3>Skills </h3>
-<h2>SQL, Python, Hadoop, Impala, Airflow, SuperSet </h2>
-<h4>.</h4>
+<h2>Skills </h2>
+<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash" />
   </a>
 </p>
-<h4>.</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,figma,gitlab,grafana,linkedin,matlab,ps,linux" />
