@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=83&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=81&descAlign=50)
  <!--  <p align='center'> Building DE Community </p> -->
   <!-- <h4 align="center"> 
 </h4>
@@ -67,6 +67,27 @@ Currently I'm Data Engineeer in Bank.
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast&cache_seconds=50000" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
  </div>
+ 
+ 
+<br>
+
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>
+<a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://public.tableau.com/app/profile/thomas.george.thomas"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+<br>
+</p>      
+ 
  
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=15&animation=fadeIn&fontAlignY=38&TextColor=FD3412"/>
