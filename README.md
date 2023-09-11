@@ -40,7 +40,7 @@ Currently I'm Data Engineeer in Bank.
 
 [1]: https://www.linkedin.com/in/<>
 [2]: https://telegram.me/<>
-[3]: mailto:sokolartemy@<>
+[3]: mailto:semy@<>
 [4]: https://www.reddit.com/user/<>
 
 
