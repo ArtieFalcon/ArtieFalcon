@@ -38,10 +38,10 @@ Currently I'm Data Engineeer in Bank.
 [3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
 [4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
 
-[1]: https://www.linkedin.com/in/artemiy-s-708111210
-[2]: https://telegram.me/xxxagtx
-[3]: mailto:sokolartemy@gmail.com
-[4]: https://www.reddit.com/user/ArtieFalcon/
+[1]: https://www.linkedin.com/in/<>
+[2]: https://telegram.me/<>
+[3]: mailto:sokolartemy@<>
+[4]: https://www.reddit.com/user/<>
 
 
 
