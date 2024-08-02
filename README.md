@@ -48,7 +48,11 @@ Currently I'm Data Engineeer
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Optimization](https://habr.com/ru/sandbox/184840/)
+- [My Acrticles](https://habr.com/en/users/Falcon_eye/publications/articles/)
+- How to set up Apache Airflow for 10 minutes via Docker
+- Как установить Apache Spark за 10 минут
+- Apache Spark… Это база
+- Оптимизация запроса и запрос оптимизации
 <!-- BLOG-POST-LIST:END -->
 
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
