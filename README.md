@@ -29,9 +29,10 @@ Currently I'm Data Engineeer
 
 <img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
 
+ <!-- Comments 
 ## Contact Me
 
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
+ [![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
 
 [1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
 [2.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram1.png
@@ -42,7 +43,7 @@ Currently I'm Data Engineeer
 [2]: https://telegram.me/<>
 [3]: mailto:semy@<>
 [4]: https://www.reddit.com/user/<>
-
+ -->
 
 
 ### 📕 Latest Blog Posts
