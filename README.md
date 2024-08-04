@@ -14,8 +14,8 @@ Currently I'm Data Engineeer
 <img align='left' height='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
 <br>
-<h2>Skills </h2>
-<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet, SAS MA </h3>
+<h2> Skills </h2>
+<h3> SQL, Python, Spark, Hadoop, Impala, Airflow, SuperSet, SAS MA, GIT </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash" />
