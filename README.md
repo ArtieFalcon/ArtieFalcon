@@ -29,6 +29,7 @@ Currently I'm Data Engineeer
 
 <img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
 
+Contact Me
  <!-- Comments 
 ## Contact Me
 
