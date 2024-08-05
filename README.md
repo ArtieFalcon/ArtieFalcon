@@ -11,7 +11,7 @@
 ### :pushpin: Hi, I'm A. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
 Currently I'm Data Engineeer
 
-<img align='left' height='210' width='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
+<img align='left' height='210' width='280' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
 <br>
 <h2> Skills </h2>
@@ -27,7 +27,7 @@ Currently I'm Data Engineeer
   </a>
 </p>
 
-<img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
+<img align='right' height='250' width='280' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
 
 Contact Me
  <!-- Comments 
